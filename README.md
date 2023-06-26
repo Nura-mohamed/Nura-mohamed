@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **FEMSAFE**
 
-- 🌱 I’m currently learning **Django,node.js,express.js**
+- 🌱 I’m currently learning **Django and java , React and also how to solve DSA**
 
-- 💬 Ask me about **css,python,javascript,bootstrap**
+- 💬 Ask me about **HTM ,css,python,javascript,bootstrap,SQL,MONGODB**
 
 - 📫 How to reach me **nurakassim91@gmail.com**
 
