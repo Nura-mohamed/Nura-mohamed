@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nura Kassim</h1>
-<h3 align="center">Am an Aspiring Cloud and Ml engineer.</h3>
+<h3 align="center">Am currently Learning Devops and Backend development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nura-mohamed&label=Profile%20views&color=0e75b6&style=flat" alt="nura-mohamed" /> </p>
 
