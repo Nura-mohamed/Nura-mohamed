@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nura Kassim</h1>
-<h3 align="center">Aspiring Android Engineer.</h3>
+<h3 align="center">Aspiring Android Engineer and Machine Learning Engineer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nura-mohamed&label=Profile%20views&color=0e75b6&style=flat" alt="nura-mohamed" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nura-mohamed" alt="nura-mohamed" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/vector558" target="blank"><img src="https://img.shields.io/twitter/follow/vector558?logo=twitter&style=for-the-badge" alt="vector558" /></a> </p>
+<h4 align ="center">Working on building a career in Health Technology</h4>
+<p> Don't be suprised when you find more projects based on the health care😄😄, I AM ALSO A 👩‍⚕️👩‍⚕️ </p>
 
 - 🔭 I’m currently working on *writing clean code**
-
-- 🌱 I’m currently learning **Kotlin, SQL and PostgreSQL **
+😄
+- 🌱 I’m currently learning **Kotlin, SQL ,PostgreSQL, keras and Tensorflow **
 
 - 📫 How to reach me **nurakassim91@gmail.com**
 
