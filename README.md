@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nura Kassim</h1>
-<h3 align="center">Aspiring Android Engineer and Machine Learning Engineer.</h3>
+<h3 align="center">Aspiring Full stack Engineer.</h3>
 
 <h4 align ="center">Working on building a career in Health Technology</h4>
 <p> Don't be suprised when you find more projects based on the health care😄😄, I AM ALSO A 👩‍⚕️👩‍⚕️ </p>
